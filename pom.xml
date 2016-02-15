@@ -22,7 +22,7 @@
         <apacheds.codec.version>1.0.0-M23</apacheds.codec.version>
         <org.apache.james.apache-mime4j.version>0.6</org.apache.james.apache-mime4j.version>
         <base64.version>2.3.8</base64.version>
-        <bouncycastle.crypto.version>1.50</bouncycastle.crypto.version>
+        <bouncycastle.crypto.version>1.49</bouncycastle.crypto.version>
         <jackson.version>1.9.9</jackson.version>
         <apache.httpcomponents.version>4.3.6</apache.httpcomponents.version>
         <apache.httpcomponents.httpcore.version>4.3.3</apache.httpcomponents.httpcore.version>
