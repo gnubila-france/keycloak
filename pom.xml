@@ -105,9 +105,9 @@
 
     <distributionManagement>
         <repository>
-            <id>jboss-releases-repository</id>
-            <name>JBoss Releases Repository</name>
-            <url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</url>
+            <id>maatg-fr-releases</id>
+            <name>maatG France Releases</name>
+            <url>http://nexus.gnubila.fr/content/repositories/maatg-fr-releases</url>
         </repository>
     </distributionManagement>
 
